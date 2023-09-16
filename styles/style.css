@@ -46,7 +46,6 @@ header{
 
 /* artical */
 
-
 .first-artical> .image , .artical-section{
     display: flex;
     padding: 90px;
@@ -137,6 +136,7 @@ header{
 }
 
 /* footer */
+
 .footer{
     display: flex;
     color: white;
@@ -181,6 +181,11 @@ header{
     background-color: black;
     border-radius: 10px;
     border-color: white;
+    font-size: 19px;
+
+}
+#email:focus{
+    color: aqua;
     font-size: 19px;
 }
 .subscribe-button{
