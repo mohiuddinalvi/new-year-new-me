@@ -146,7 +146,6 @@ header{
     background-color: black;
     margin-top: 190px;
     padding: 100px;
-    line-height: 30px;
 }
 .future-artical{
     display: block;
@@ -168,7 +167,6 @@ header{
 }
 .icons{
     padding: 20px;
-    justify-content: space-between;
 }
 
 .subscription{
