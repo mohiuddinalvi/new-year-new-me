@@ -59,10 +59,10 @@ header{
     margin-top: 160px;
 }
 .artical-title{
-    font-size: 40px;
-    font-weight: 800;
+    font-size: 50px;
+    font-weight: 600;
     padding: 10px;
-    line-height: 50px;
+    line-height: 40px;
 }
 .about-artical{
     margin-top: 45px;
@@ -184,7 +184,9 @@ header{
     height: 60px;
     width: 360px;
     background-color: black;
-    border-radius: 5px;
+    border-radius: 10px;
+    border-color: white;
+    font-size: 19px;
 }
 .subscribe-button{
     margin-top: 20px;
