@@ -24,7 +24,6 @@ header{
     padding-left: 200px;
 }
 .about-head{
-    line-height: 30px;
     color: antiquewhite;
     margin-top: 40px;
     font-size: 17px;
@@ -53,7 +52,6 @@ header{
     padding: 90px;
 }
 .artical-section{
-    line-height: 30px;
     display: block;
     margin-left: 76px;
     margin-top: 160px;
@@ -62,7 +60,6 @@ header{
     font-size: 50px;
     font-weight: 600;
     padding: 10px;
-    line-height: 40px;
 }
 .about-artical{
     margin-top: 45px;
